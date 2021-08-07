@@ -1,4 +1,4 @@
-# This is my first Threejs demo project
+# This is my first ThreeJs demo project
 Demo : https://kenkaneki0625.github.io/starfield/
 
 ``` bash
