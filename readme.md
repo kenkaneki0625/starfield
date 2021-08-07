@@ -1,5 +1,5 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# This is my first Threejs demo project
+Demo : https://kenkaneki0625.github.io/starfield/
 
 ``` bash
 # Install dependencies (only the first time)
